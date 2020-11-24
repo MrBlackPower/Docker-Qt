@@ -1,0 +1,16 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Introdução}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Primeiro Problema}{14}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Docker}{15}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Segundo Problema}{24}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Docker Cloud Services}{25}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Terceiro Problema}{26}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Docker Mutilayer}{27}{0}{7}
