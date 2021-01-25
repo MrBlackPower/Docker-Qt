@@ -1,0 +1,20 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {portuguese}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Docker - Introdução}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Docker - Instalação}{9}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Docker - Contêineres}{21}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Docker - Imagens}{34}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Docker - Compose \& Builder}{44}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Qt - Introdução}{53}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Qt - Instalação}{56}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {8}{Qt - Interface Gráfica}{60}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {9}{Docker \& Qt - Padrões de Projeto}{66}{0}{9}
